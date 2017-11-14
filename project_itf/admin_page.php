@@ -17,8 +17,15 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Admin</title>
-	<button type="button" class="btn btn-danger"><a href="index.php">Log out</a></button>
+	<?php include 'link.php'; ?>
 </head>
 <body>
+	<h2 id='fontit' align="center">Admin config</h2>
+	<div class="container">
+		<button type="button" class="btn btn-default center-block""><a href="add_product.php">Add Product</a></button>
+		<hr>
+		</div>
+		<button type="button" class="btn btn-default center-block""><a href="index.php">Log out</a></button>
+</div>
 </body>
 </html>

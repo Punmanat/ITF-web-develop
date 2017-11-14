@@ -42,7 +42,7 @@
 	<?php
 		error_reporting(0);
 		session_start();
-		$con = mysqli_connect('localhost', 'root', '', 'product');
+		$con = mysqli_connect('192.168.88.46', 'punmanat', 'KDX123456', 'product');
 		$username = $_POST['username_login'];
 		$password = $_POST['password_login'];
 		if($username=='admin' and $password=='nimda'){

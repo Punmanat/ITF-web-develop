@@ -8,7 +8,7 @@
 <body id='contact'>
 	<section class="container">
 		<?php include 'header.php'; ?>
-		<?php include 'slider.php' ?>
+		<?php include 'slider.php'; ?>
 		<br>
 		<div class="content row">
 			<section class="main col-lg-8">
