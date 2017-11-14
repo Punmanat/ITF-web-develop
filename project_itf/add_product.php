@@ -37,7 +37,7 @@
     </div>
     <?php 
 		error_reporting(0);
-		$con = mysqli_connect('192.168.88.46', 'punmanat', 'KDX123456', 'product');
+		$con = mysqli_connect('10.0.103.0', 'punmanat', 'KDX123456', 'product');
 		$name = $_POST['name'];
 		$price = $_POST['price'];
 		$img = $_POST['img'];
