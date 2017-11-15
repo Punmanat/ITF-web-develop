@@ -62,7 +62,7 @@
 
 		}
 		if($count == 1){
-			echo '<script>alert("Incorrect!")</script>';
+			echo '<script>alert("Plese Login!")</script>';
 			exit();
 		}
 		mysqli_close($con);
