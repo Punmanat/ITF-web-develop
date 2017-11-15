@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-	<meta charset="UTF-8">
-	<title>Living room</title>
+    <meta charset="UTF-8">
+    <title>Livingroom</title>
+    <?php 
+		header("location:login.php");
+ ?>
 </head>
+
 <body>
-	
 </body>
+
 </html>
