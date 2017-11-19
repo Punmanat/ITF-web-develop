@@ -28,7 +28,7 @@
                 <p align='center' id='fontthai' style="font-size: 16px;">
                     WOW! ต้อนรับลมหนาว พบกับส่วนลดเฟอร์นิเจอร์สูงสุด 50 %
                     <br>ตั่งแต่วันที่ 1-30 พฤศจิกายน
-                    <br>ศกนี้!!!s
+                    <br>ศกนี้!!!
                     <p>
             </section>
         </div>
