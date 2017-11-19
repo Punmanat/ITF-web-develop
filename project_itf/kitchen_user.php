@@ -10,8 +10,8 @@
 </head>
 <body>
     <div class="container">
-        <?php include 'header_product.php'; ?>
-        <h1 id='fontit' align="center" style="color: #FEFEFEFF;">Catalog</h1>
+        <?php include 'header_user.php'; ?>
+        <h1 id='fontit' align="center">Catalog</h1>
         <hr>
         <div class="row">
             <div class="col-sm-4">
@@ -21,7 +21,6 @@
                 <h2>Wall cabinet</h2>
                     <p>Snap-on hinges can be mounted onto the door without screws, and you can easily remove the door for cleaning.</p>
                     <div class="price">9500฿</div>
-                    <a href="#" class="add-to-cart">Add to Cart</a>
                 </figcaption>
             </figure>
             </div>

@@ -9,8 +9,8 @@
     <script type="text/javascript" src="script/cart-js.js"></script>
 </head>
     <div class="container">
-        <?php include 'header_product.php'; ?>
-        <h1 id='fontit' align="center" style="color: #FEFEFEFF;">Catalog</h1>
+        <?php include 'header_user.php'; ?>
+        <h1 id='fontit' align="center">Catalog</h1>
         <hr>
         <div class="row">
             <div class="col-sm-4">

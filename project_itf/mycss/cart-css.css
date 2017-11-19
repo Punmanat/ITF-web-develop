@@ -9,7 +9,7 @@
   min-width: 220px;
   max-width: 310px;
   width: 100%;
-  color: #000000;
+  color: #000000FF;
   text-align: left;
   font-size: 16px;
   -webkit-perspective: 50em;
@@ -108,5 +108,5 @@
 }
 /* Demo purposes only */
 body {
-  background-color: #212121;
+  background-color: #FEFEFEFF;
 }
