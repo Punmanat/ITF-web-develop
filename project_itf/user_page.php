@@ -17,7 +17,8 @@
                 <div class="jumbotron">
                     <h2 id='fontit'>Welcome to Alaikodai</h2>
                     <hr>
-                    <p id='fontthai'>ยินดีต้อนรับสู้ร้านค้าของเรา</p>
+                    <p id='fontthai'>เว็บไซต์ของเราจะช่วยอำนวยความสะดวกให้คุณสามารถเลือกสรรเฟอร์นิเจอร์
+                    ที่เข้ากับบ้านของคุณได้ แค่เพียงใช้เว็บไซต์นี้ สินค้าของคุณก็จะถูกจัดส่งตรงถึงบ้าน!</p>
                 </div>
             </section>
             <section class="sidebar col-lg-4">
@@ -25,9 +26,9 @@
                 <hr>
                 <img class="img-rounded img-responsive" src="https://www.supercircuits.com/media/wysiwyg/blog/images/winter-sale.jpg">
                 <p align='center' id='fontthai' style="font-size: 16px;">
-                    ต้อนรับลมหนาวรับส่วนลดสูงสุด 20 %
-                    <br>ตั่งแต่วันที่ 1-30 พ.ย 2560
-                    <br>นี้เท่านั้น
+                    WOW! ต้อนรับลมหนาว พบกับส่วนลดเฟอร์นิเจอร์สูงสุด 50 %
+                    <br>ตั่งแต่วันที่ 1-30 พฤศจิกายน
+                    <br>ศกนี้!!!
                     <p>
             </section>
         </div>

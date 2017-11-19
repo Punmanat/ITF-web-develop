@@ -42,7 +42,7 @@
     <?php
 		error_reporting(0);
 		session_start();
-		$con = mysqli_connect('10.0.103.0', 'punmanat', 'KDX123456', 'product');
+		$con = mysqli_connect('localhost', 'root', '', 'product');
 		$username = $_POST['username_login'];
 		$password = $_POST['password_login'];
 		$count = 0;

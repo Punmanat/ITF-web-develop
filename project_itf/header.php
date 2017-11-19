@@ -11,10 +11,10 @@
                         <li id='fontit' style="font-size: 16px"><a href="contact.php">Contact</a></li>
                         <li class="dropdown" id='fontit' style="font-size: 16px"><a class="dropdown-toggle" data-toggle='dropdown' href="#">Product <span class='caret'></span></a>
                             <ul class="dropdown-menu">
-                                <li id='fontit' style="font-size: 16px"><a href="livingroom.php">Living room</a></li>
-                                <li id='fontit' style="font-size: 16px"><a href="bedroom.php">Bedroom</a></li>
-                                <li id='fontit' style="font-size: 16px"><a href="kitchen.php">Kitchen</a></li>
-                                <li id='fontit' style="font-size: 16px"><a href="bathroom.php">Bathroom</a></li>
+                                <li id='fontit' style="font-size: 16px"><a href="login.php">Living room</a></li>
+                                <li id='fontit' style="font-size: 16px"><a href="login.php">Bedroom</a></li>
+                                <li id='fontit' style="font-size: 16px"><a href="login.php">Kitchen</a></li>
+                                <li id='fontit' style="font-size: 16px"><a href="login.php">Bathroom</a></li>
                             </ul>
                         </li>
                     </ul>

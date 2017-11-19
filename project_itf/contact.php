@@ -17,7 +17,10 @@
                 <div class="jumbotron">
                     <h2 id='fontit'>Contact page</h2>
                     <hr>
-                    <p id='fontthai'>ยินดีต้อนรับสู้ร้านค้าของเรา</p>
+                    <p id='fontthai'>หากคุณกำลังค้นหาคำตอบ ต้องการความช่วยเหลือเร่งด่วน
+                    หรือต้องการให้คำแนะนำ คุณสามารถติดต่อเราได้ทาง 081-989-5555
+                รายินดีเป็นอย่างยิ่งที่ได้ให้บริการคุณ 
+            เวลาทำการ ทุกวัน 9:00 - 19:00 น.</p>
                 </div>
             </section>
             <section class="sidebar col-lg-4">
@@ -25,9 +28,9 @@
                 <hr>
                 <img class="img-rounded img-responsive" src="https://www.supercircuits.com/media/wysiwyg/blog/images/winter-sale.jpg">
                 <p align='center' id='fontthai' style="font-size: 16px;">
-                    ต้อนรับลมหนาวรับส่วนลดสูงสุด 20 %
-                    <br>ตั่งแต่วันที่ 1-30 พ.ย 2560
-                    <br>นี้เท่านั้น
+                    WOW! ต้อนรับลมหนาว พบกับส่วนลดเฟอร์นิเจอร์สูงสุด 50 %
+                    <br>ตั่งแต่วันที่ 1-30 พฤศจิกายน
+                    <br>ศกนี้!!!
                     <p>
             </section>
         </div>

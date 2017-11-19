@@ -73,7 +73,7 @@
     </div>
     <?php 
 		error_reporting(0); //Not show report
-		$con = mysqli_connect('10.0.103.0', 'punmanat', 'KDX123456', 'product');
+		$con = mysqli_connect('localhost', 'root', '', 'product');
 		$username = $_POST['username'];
 		$password = $_POST['password'];
 		$fullname = $_POST['fullname'];
