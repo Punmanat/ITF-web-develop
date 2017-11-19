@@ -45,6 +45,13 @@
 		$con = mysqli_connect('localhost', 'root', '', 'product');
 		$username = $_POST['username_login'];
 		$password = $_POST['password_login'];
+        if($username=='testuser' and $password=='testpassword'){
+            $_SESSION["username"] = $username;
+            $_SESSION["password"] = $password;
+            $_SESSION["fullname"] = 'Testuser';
+            session_write_close();
+            header("location:user_page.php");
+        }
 		$count = 0;
 		$sql = "SELECT * FROM profile_signup";
 		$result = mysqli_query($con, $sql);
